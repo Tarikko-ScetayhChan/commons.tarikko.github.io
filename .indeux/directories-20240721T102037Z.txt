@@ -1,5 +1,0 @@
-./
-./audio/
-./documents/
-./images/
-./images/backgrounds/
