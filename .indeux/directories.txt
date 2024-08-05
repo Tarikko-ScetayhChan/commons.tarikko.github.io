@@ -3,4 +3,5 @@ audio/
 documents/
 documents/gentoo-amd64-handbook/
 images/
-images/backgrounds/
+pictures/
+pictures/backgrounds/
